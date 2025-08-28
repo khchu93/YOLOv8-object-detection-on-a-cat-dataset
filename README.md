@@ -1,5 +1,7 @@
-# YOLOv8-object-detection-on-a-cat-dataset
-🐱 YOLOv8 Object Detection on Cat Dataset (Inspired by Computer Vision Engineer Tutorial)
+# YOLOv8-object-detection-on-a-cat-dataset 🐱
+
+## Description of the project 
+YOLOv8 Object Detection on Cat Dataset (Inspired by Computer Vision Engineer Tutorial)
 📌 Overview
 
 This repository is part of my Computer Vision learning journey.
