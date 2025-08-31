@@ -1,10 +1,12 @@
-## YOLOv8-object-detection-on-a-cat-dataset 🐱
+## Object Detection with YOLOv8 🐱 <br />
+Object Detection / Ultralytics YOLOv8 / Label Studio(annotation)
+
+### 💻 Description
+Self-learning journey 1: Computer vision, object detection with YOLOv8
 
 ### 📌 Overview
 
-This repository is part of my Computer Vision learning journey.
-
-I implemented YOLOv8 for object detection on a cat dataset, guided by the following excellent tutorial: <br />
+I implemented YOLOv8 for object detection on a custom dataset, guided by the following excellent tutorial: <br />
 [How to Train YOLO Object Detection Models in Google Colab (YOLO11, YOLOv8, YOLOv5)](https://www.youtube.com/watch?v=r0RspiLG260&ab_channel=EdjeElectronics)
 
 Instead of just copy-pasting, I:
@@ -15,19 +17,12 @@ Instead of just copy-pasting, I:
 
 Documented the key steps so others (and my future self) can learn from it
 
-### 🧑‍💻 What I Learned
+### ✨ What I Learned
 
 - How YOLOv8 architecture works for object detection <br />
 - Dataset preparation for training (annotation, augmentation, splitting) <br />
 - Training & evaluating a custom object detector in PyTorch <br />
 - Visualizing predictions and interpreting model performance
-
-### 🔧 Tech Stack
-- Python
-- Ultralytics YOLOv8
-- PyTorch
-- OpenCV
-- Matplotlib
 
 ### 📂 Repo Structure
 
@@ -39,7 +34,6 @@ Documented the key steps so others (and my future self) can learn from it
 └── README.md           # Project documentation
 ```
 
-## 🙏 Credits
+### 🙏 Credits
 
-This work was inspired by: [Train Yolov8 object detection on a custom dataset | Step by step guide | Computer vision tutorial](https://www.youtube.com/watch?v=m9fH9OWn8YM&list=PLb49csYFtO2HGELdc-RLRCNVNy0g2UMwc&index=3&ab_channel=Computervisionengineer)  <br />
-Any changes, extensions, or mistakes here are my own.
+This work was inspired by: [How to Train YOLO Object Detection Models in Google Colab (YOLO11, YOLOv8, YOLOv5)](https://www.youtube.com/watch?v=r0RspiLG260&ab_channel=EdjeElectronics)  <br />
