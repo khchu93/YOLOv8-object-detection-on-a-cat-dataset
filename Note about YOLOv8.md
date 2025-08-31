@@ -12,3 +12,5 @@ Note about what I understand about YOLOv8
 ### 👍 When to use
 
 ### 👎 When not to use
+
+### 🎓 Reference
