@@ -5,7 +5,7 @@
 This repository is part of my Computer Vision learning journey.
 
 I implemented YOLOv8 for object detection on a cat dataset, guided by the following excellent tutorial: <br />
-[Train Yolov8 object detection on a custom dataset | Step by step guide | Computer vision tutorial](https://www.youtube.com/watch?v=m9fH9OWn8YM&list=PLb49csYFtO2HGELdc-RLRCNVNy0g2UMwc&index=3&ab_channel=Computervisionengineer)
+[How to Train YOLO Object Detection Models in Google Colab (YOLO11, YOLOv8, YOLOv5)](https://www.youtube.com/watch?v=r0RspiLG260&ab_channel=EdjeElectronics)
 
 Instead of just copy-pasting, I:
 1. Rebuilt the project in my own way
